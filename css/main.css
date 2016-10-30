@@ -1,0 +1,97 @@
+/* Stylesheet by quackit.com */
+/* Modified by github.com/tengrrl */
+
+  body {
+    margin:0;
+    padding:0;
+    font-family: Sans-Serif;
+    line-height: 1.5em;
+  }
+
+  /* Change the background color    */
+  /* of the header below, or add a  */
+  /* link to a background image     */
+  /* and remove the comment code.   */
+  header {
+    background: #ccc;
+    height: 100px;
+    /* background-image: url("put-link-to-image-here"); the quotation marks are required */
+  }
+
+  header h1 {
+    margin: 0;
+    padding-top: 15px;
+  }
+
+  main {
+    padding-bottom: 10010px;
+    margin-bottom: -10000px;
+    float: left;
+    width: 100%;
+  }
+
+  /* Change the background color     */
+  /* of the left menu column below. */
+  nav {
+    padding-bottom: 10010px;
+    margin-bottom: -10000px;
+    float: left;
+    width: 230px;
+    margin-left: -230px;
+    background: #eee;
+  }
+
+  /* Change the background     */
+  /* color of the footer below */
+  footer {
+    clear: left;
+    width: 100%;
+    background: #ccc;
+    padding: 4px 0;
+  }
+
+  #wrapper {
+    overflow: hidden;
+  }
+
+  #content {
+    margin-right: 230px; /* Same as 'nav' width */
+  }
+
+  .innertube {
+    margin: 15px; /* Padding for content */
+    margin-top: 0;
+  }
+
+  p {
+    color: #000;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav ul a {
+    color: darkgreen;
+    text-decoration: none;
+  }
+
+  /* Additions to support the external */
+  /* iframe files */
+.site-header {
+    margin: 0;
+    padding-top: 15px;
+    font-family: Sans-Serif;
+  }
+.site-footer{
+    text-align: center;
+  }
+.site-menu h3 {
+  color: #000;
+}
+.site-menu a {
+    color: darkgreen;
+    text-decoration: underline;
+  }
