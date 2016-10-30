@@ -1,4 +1,4 @@
-# 2-column-template
+# 2-column-leftmenu-template
 Basic HTML/CSS template with header, wide content column on the right, menu on the left, and a footer.
 
 ## Site Demo
